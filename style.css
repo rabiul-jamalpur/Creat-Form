@@ -1,0 +1,39 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.form{
+    background: rgb(34, 236, 243);
+    overflow:hidden;
+    width: 100%;
+}
+form{
+    width: 70%;
+    margin: 100px;
+    position: relative;
+    padding: 4%;
+    margin-left: 115px;
+    
+}
+
+    
+.col-md-7 h1{
+    transform: rotate(-90deg);
+    opacity: 50%;
+    color: #ffff;
+    position: absolute;
+    margin-top: 250px;
+    margin-left: -50px;
+}
+.col-md-7{
+    margin-right: 0px;
+}
+form input{
+    width: 40% !important;
+    float: left;
+    margin: 10px;
+}
+.col-md-5{
+    margin-top: 100px;
+    padding: 10px;
+}
